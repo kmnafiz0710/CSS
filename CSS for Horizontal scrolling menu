@@ -1,0 +1,10 @@
+
+selector ul {
+    display: flex;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+    overflow-x: auto;
+}
+selector ul::-webkit-scrollbar{
+display:none !important;
+}
