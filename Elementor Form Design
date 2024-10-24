@@ -1,0 +1,8 @@
+selector input,
+selector select,
+selector textarea {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
